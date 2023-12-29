@@ -50,3 +50,27 @@ This project is a basic YouTube clone created with HTML, CSS, and JavaScript. Th
    ```bash
    git clone https://github.com/dayas-kr-coder/youtube-clone.git
    ```
+
+## Contributing
+
+We welcome contributions to enhance and improve [Your Project Name]. Whether you're fixing a bug, adding a feature, or improving documentation, your contributions are appreciated.
+
+To contribute to this project, please follow these steps:
+
+1. Fork this repository.
+2. Create a new branch: `git checkout -b feature/your-feature-name`.
+3. Make your changes and commit them: `git commit -m 'Add some feature'`.
+4. Push to the branch: `git push origin feature/your-feature-name`.
+5. Submit a pull request.
+
+Our team will review your contribution and provide feedback. Thank you for making [Your Project Name] better!
+
+For major changes, please open an issue first to discuss potential updates.
+
+## Code of Conduct
+
+Please note that we have a [Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for your own projects. See the [LICENSE](LICENSE) file for more details.
