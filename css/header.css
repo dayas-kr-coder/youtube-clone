@@ -1,0 +1,49 @@
+/*! Temporary body styles (Remove later) */
+body {
+  background-color: aliceblue;
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 56px;
+  background-color: var(--bg-color);
+  padding: 0 1rem;
+  display: flex;
+  align-items: center;
+}
+
+/* Default styles for all header icons */
+.header .left-section .hamburger-menu {
+  cursor: pointer;
+  transition: background-color 50ms;
+  &:hover {
+    background-color: var(--icon-bg-color-hover);
+  }
+}
+
+.header .left-section {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.header .left-section .hamburger-menu {
+  height: 40px;
+  padding: 8px;
+  border-radius: 20px;
+}
+
+.header .left-section .youtube-logo {
+  height: 56px;
+  padding: 18px 14px 18px 16px;
+}
+
+.header .left-section .country-name {
+  font-size: 10px;
+  position: absolute;
+  right: 0;
+  top: 12px;
+  color: var(--video-info-primary-color);
+}
