@@ -1,4 +1,4 @@
-# <div style="display: flex; align-items: center; gap: 16px"><img width="48" height="48" src="https://img.icons8.com/color/48/youtube-play.png" alt="youtube-play"/><span style="vertical-align: middle">YouTube Clone</span><div>
+# A Simple YouTube Clone
 
 A simple YouTube clone using HTML, CSS, and JavaScript.
 
